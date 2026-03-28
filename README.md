@@ -1,7 +1,8 @@
 # Data Structure Assignment
 
 Name: MOGNESH PASUPULETI
-Roll Number: YOUR ROLL NUMBER  
+PRN Number: 250200196  
+ROLL no: 67
 Course: Introduction to Data Structure  
 
 ## Description
